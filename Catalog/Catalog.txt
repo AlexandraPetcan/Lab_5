@@ -1,0 +1,10 @@
+<html>
+<head></head>
+<body>
+<h1>Catalog colegi</h1>
+<p><a href="file:///C:/Users/Alexandra/Desktop/Sarmasan_Andrei.html">Sarmasan Andrei</a></p>
+<p><a href="file:///C:/Users/Alexandra/Desktop/prezentare%20pop%20alin%20cristian.html">Pop Alin Cristian</a></p>
+<p><a href="file:///C:/Users/Alexandra/Desktop/Oarcas%20David%20Cristian.html">Oarcas David Cristian</a></p>
+<a href="file:///C:/Users/Alexandra/Desktop/Catalog.html">&laquo; Previos</a>
+</body>
+</html>
